@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2025-08-20",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Assignment-Survey Sparrow",
+    "date": "2025-08-21",
+    "time": "05:30",
+    "duration": "30 mins"
+  },
+  {
+    "id": 3,
+    "title": "Client Call",
+    "date": "2025-08-22",
+    "time": "15:00",
+    "duration": "30m"
+  },
+  {
+    "id": 4,
+    "title": "Hackathon",
+    "date": "2025-08-25",
+    "time": "09:00",
+    "duration": "4h"
+  },
+  {
+    "id": 5,
+    "title": "Deadline: Project X",
+    "date": "2025-08-28",
+    "time": "23:59",
+    "duration": "All Day"
+  },
+  {
+    "id": 6,
+    "title": "Design Review",
+    "date": "2025-08-28",
+    "time": "15:00",
+    "duration": "2h"
+  },
+  {
+    "id": 7,
+    "title": "Code Freeze",
+    "date": "2025-08-28",
+    "time": "18:00",
+    "duration": "1h"
+  },
+  {
+    "id": 8,
+    "title": "Product Launch Review",
+    "date": "2025-09-05",
+    "time": "11:00",
+    "duration": "2h"
+  },
+  {
+    "id": 9,
+    "title": "Quarterly Townhall",
+    "date": "2025-09-15",
+    "time": "16:00",
+    "duration": "1h"
+  },
+  {
+    "id": 10,
+    "title": "Deadline: App Submission",
+    "date": "2025-09-15",
+    "time": "23:59",
+    "duration": "All Day"
+  },
+  {
+    "id": 11,
+    "title": "Sprint Planning",
+    "date": "2025-09-15",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "id": 12,
+    "title": "Festival Holiday: Diwali",
+    "date": "2025-10-20",
+    "time": "00:00",
+    "duration": "All Day"
+  },
+  {
+    "id": 13,
+    "title": "Workshop: AI in Frontend",
+    "date": "2025-11-10",
+    "time": "14:00",
+    "duration": "3h"
+  },
+  {
+    "id": 14,
+    "title": "End of Year Review",
+    "date": "2025-12-30",
+    "time": "09:30",
+    "duration": "2h"
+  },
+  {
+    "id": 15,
+    "title": "New Year Celebration",
+    "date": "2026-01-01",
+    "time": "00:00",
+    "duration": "All Day"
+  },
+  {
+    "id": 16,
+    "title": "Budget Planning Meeting",
+    "date": "2026-01-15",
+    "time": "10:30",
+    "duration": "2h"
+  },
+  {
+    "id": 17,
+    "title": "Hackathon 2.0",
+    "date": "2026-02-05",
+    "time": "09:00",
+    "duration": "6h"
+  },
+  {
+    "id": 18,
+    "title": "System Upgrade",
+    "date": "2026-02-05",
+    "time": "15:00",
+    "duration": "2h"
+  }
+]
