@@ -1,6 +1,7 @@
 A modern, responsive calendar web application built with React and Tailwind CSS.
 It helps users view, add, and manage events in different views (monthly, weekly, yearly) and also track upcoming and completed events.
 
+
 Features
 ================
 Multiple Views – Monthly, Weekly, and Yearly calendar layouts.
